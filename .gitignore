@@ -1,7 +1,0 @@
-.history
-__pycache__
-mount_venv.sh
-unmount_venv.sh
-data/emopia/*
-packages/*
-.env
